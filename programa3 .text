@@ -1,0 +1,8 @@
+# include  <stdio.h> \\teste  de quebrade linhas  em  frases
+
+int main(void){
+    
+  printf("meu nome e\ngoku\nsantos\nloureiro");  
+  return 0;
+    
+}
