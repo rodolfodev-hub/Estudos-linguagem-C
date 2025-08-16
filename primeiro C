@@ -1,0 +1,9 @@
+# include <stdio.h> // primeiro  programa  em C
+
+int main(void){
+
+printf("oi\n");
+
+return 0;
+
+}
