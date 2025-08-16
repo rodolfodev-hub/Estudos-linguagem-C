@@ -1,0 +1,11 @@
+# include <stdio.h> // programa testa a quebra  de linhas
+
+
+int main(void){
+    
+    printf("meu nome e\n");
+    printf("goku");
+    
+    return 0;
+    
+}
